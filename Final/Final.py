@@ -2,10 +2,9 @@
 #******************************************************************
 # Author: Robert Webster
 # Program: Client Management App
-# Date: 10/03/2021
+# Date: 10/17/2021
 #  
-# Comments: Final
-#
+# Comments: Capstone Final
 #
 #******************************************************************
 
